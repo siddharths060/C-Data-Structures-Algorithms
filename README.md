@@ -1,33 +1,33 @@
-# ​ Data Structures & Algorithms in C  
+# 🚀 Data Structures & Algorithms in C  
 
-Welcome to **DSA in C** — your polished, fun gateway to mastering fundamental **data structures** and **algorithms** in C.
+Welcome to **DSA in C** — a collection of essential **data structures** and **algorithms** implemented in the C programming language.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="500" alt="coding gif placeholder">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="150" alt="C language logo">
 </p>
 
 ---
 
-## ​ Why This Repo?  
-- Build strong **problem-solving skills** and deepen your **C expertise**  
-- Explore essential **DSA concepts** commonly used in interviews & competitions  
-- Code is clean, well-commented, and emphasizes clarity over complexity  
+## 💡 Why This Repo?  
+- Strengthen your **C programming** and problem-solving skills  
+- Covers core **DSA concepts** used in interviews & competitive programming  
+- Clear, concise, and well-commented implementations  
 
 ---
 
-## ​ What You’ll Find  
-- **Data Structures**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs  
-- **Algorithms**: Sorting, Searching, Recursion, Dynamic Programming  
-- Each implementation is easy to follow and educational  
+## 📂 What You’ll Find  
+✅ Classic **Data Structures** (Arrays, Linked Lists, Stacks, Queues, Trees, Graphs)  
+✅ Popular **Algorithms** (Searching, Sorting, Recursion, Dynamic Programming)  
+✅ Easy-to-understand examples to help you **learn by doing**  
 
 <p align="center">
-  <img src="https://i.imgur.com/yourLinkedListMeme.jpg" width="400" alt="linked list meme">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Data_Visualization_of_Bubble_sort.gif" width="400" alt="Bubble sort visualization">
 </p>
 
 ---
 
-## ​ Getting Started  
-Clone this repo and dive in:
+## ⚡ Getting Started  
+Clone this repo and run any program:  
 ```bash
 git clone https://github.com/your-username/DSA-in-C.git
 cd DSA-in-C
