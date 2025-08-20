@@ -1,33 +1,33 @@
-# 🚀 Data Structures & Algorithms in C  
+# ​ Data Structures & Algorithms in C  
 
-Welcome to **DSA in C** — a collection of fundamental **data structures** and **algorithms** implemented in the C programming language.  
+Welcome to **DSA in C** — your polished, fun gateway to mastering fundamental **data structures** and **algorithms** in C.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="500" alt="coding gif placeholder">
 </p>
 
 ---
 
-## 💡 Why This Repo?  
-- Strengthen your **C programming** and problem-solving skills  
-- Covers core **DSA concepts** used in interviews & competitive programming  
-- Clear, concise, and well-commented code  
+## ​ Why This Repo?  
+- Build strong **problem-solving skills** and deepen your **C expertise**  
+- Explore essential **DSA concepts** commonly used in interviews & competitions  
+- Code is clean, well-commented, and emphasizes clarity over complexity  
 
 ---
 
-## 📂 What You’ll Find  
-✅ Classic **Data Structures** (Arrays, Linked Lists, Stacks, Queues, Trees, Graphs)  
-✅ Popular **Algorithms** (Searching, Sorting, Recursion, Dynamic Programming)  
-✅ Simple examples to help you **understand, not just memorize**  
+## ​ What You’ll Find  
+- **Data Structures**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs  
+- **Algorithms**: Sorting, Searching, Recursion, Dynamic Programming  
+- Each implementation is easy to follow and educational  
 
 <p align="center">
-  <img src="https://i.imgflip.com/65efzo.jpg" width="400" alt="DSA Meme">
+  <img src="https://i.imgur.com/yourLinkedListMeme.jpg" width="400" alt="linked list meme">
 </p>
 
 ---
 
-## ⚡ Getting Started  
-Clone this repo and run any program:  
+## ​ Getting Started  
+Clone this repo and dive in:
 ```bash
 git clone https://github.com/your-username/DSA-in-C.git
 cd DSA-in-C
